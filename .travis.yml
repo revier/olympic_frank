@@ -1,5 +1,5 @@
 language: objective-c
 
-xcode_project: 2012\ Olympics.xcodeproj
-xcode_scheme: 2012\ Olympics
+xcode_project: 2012 Olympics.xcodeproj
+xcode_scheme: 2012 Olympics
 xcode_sdk: iphonesimulator
