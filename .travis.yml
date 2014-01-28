@@ -1,0 +1,5 @@
+language: objective-c
+
+before_script: enable_frank.sh
+scrpit: "./frank.sh" 
+
