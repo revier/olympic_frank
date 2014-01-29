@@ -3,6 +3,6 @@ xcode_project: 2012 Olympics.xcodeproj
 xcode_scheme: 2012 Olympics
 xcode_sdk: iphonesimulator
 
-after_script: 
+script:
  - ./enable_frank.sh
  - ./frank.sh
